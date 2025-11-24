@@ -2,7 +2,7 @@
 
 /* Test comment */
 int main(int argc, char **argv)
-{
-	printf("Hello world!\n"); // Inline comment
+{	// Inline comment
+	printf("Hello world!\n");
 	return 0;
 }
