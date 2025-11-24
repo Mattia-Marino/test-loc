@@ -3,6 +3,6 @@
 /* Test comment */
 int main(int argc, char **argv)
 {
-	printf("Hello world!\n"); // Comment inline
+	printf("Hello world!\n");
 	return 0;
 }
